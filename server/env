@@ -1,0 +1,4 @@
+Mongo = mongodb+srv://sharadbaghel:2203031087061@cluster0.iqpg4tn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_KEY = 586ab63d048a1d69a43ba9d1a4c4693a
+STRIPE = 
+NODE_ENV = development
